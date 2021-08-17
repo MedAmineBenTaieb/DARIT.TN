@@ -1,7 +1,12 @@
 # DARI.TN
 dari project ( spring boot) backend + [.NET] front end.
+Tools : 
+IDE : STS ( spring tool suite ) 
+WampServer
 
 ------------------ 
+
+## Description :
 
 Site Immobilier : Dari
 Il s’agit de développer une application pour l’immobilier (http://dari.tn).
@@ -16,6 +21,30 @@ Inscription (Création de Comptes, Sécurité, …)
 - Gestion des types d’utilisateurs : Acheteur, Vendeur, Bailleur, Locataire, …
 - Offrez à vos clients la possibilité de sauvegarder leurs recherches, de mettre les biens dans
 leurs favoris, de déposer des réclamations et de contacter leur conseiller, via un espace sécurisé
-qui leur est entièrement dédié
-- Notation des utilisateurs, pour bannir les utilisateurs non sérieux
+qui leur est entièrement dédié.
+- Notation des utilisateurs, pour bannir les utilisateurs non sérieux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> Other modules :
+Module 2 : Louer ,
+Module 3 : Acheter , 
+Module 4 : Déposer Annonce ,
+Module 5 : Abonnements ,
+Module 6 : Visites , 
+Module 7 : Simulation de crédit.
 
